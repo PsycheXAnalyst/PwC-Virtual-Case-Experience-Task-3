@@ -8,7 +8,7 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 This is the third task in the Virtual case experience with PwC. I’ll be reporting to the Human Resources department of PhoneNow about the gender balance in PhoneNow.
 This is the last task in the Virtual case experience with PwC. Find previous tasks and more context. 
 Refer to PwC Switzerland Power BI Virtual Case Experience Task 1 [here](https://github.com/PsycheXAnalyst/PwC-Power-BI-Virtual-Case-Experience-Project)
-Refer to PwC Switzerland Power BI Virtual Case Experience Task 2 [here] 
+Refer to PwC Switzerland Power BI Virtual Case Experience Task 2 [here](https://github.com/PsycheXAnalyst/PwC-Virtual-Case-Experience-Task-2)
 
 # PROBLEM STATEMENT
 
@@ -125,6 +125,9 @@ What gender was more promoted at the Executive level and other levels?
 ![](Promotion_Job_Level_20.jpg)
 ![](Promotion_Job_Level_21.jpg)
 
+Here is the summary and insightful dashboard built from the data analysis.
+
+![](Hire_Page.jpg)   ![](Performances_Page.jpg)
 
 # INSIGHTS 
 
